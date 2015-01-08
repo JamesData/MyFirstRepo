@@ -8,4 +8,5 @@
 
 **Learn more about me**
 <a href="http://www.weibo.com/wangzj0826"><img src="http://img.t.sinajs.cn/t6/style/images/global_nav/WB_logo.png" height="20" hspace="6"></a>
-<a href="https://github.com/JamesData"><img src="https://assets-cdn.github.com/favicon.ico" height="20" hspace="6"></a>
+<a href="https://github.com/JamesData"><img src="https://assets-cdn.github.com/favicon.ico" height="20" hspace="6">GitHub</a>
+<a href="http://wangzhenjiang.cn"><img src="http://wangzhenjiang.cn/myicon.png" height="20" hspace="6">Website</a>
